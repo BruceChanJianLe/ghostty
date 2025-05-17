@@ -1,5 +1,6 @@
-font-family = UbuntuMono Nerd Font
-font-size = 13
+# theme = nord-wave
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 10
 cursor-style = block
 mouse-hide-while-typing = true
 
@@ -8,7 +9,7 @@ background-blur-radius = 15
 
 window-padding-color = background
 window-padding-balance = true
-macos-titlebar-style=transparent
+macos-titlebar-style = transparent
 
 # command = /usr/bin/zsh
 shell-integration = zsh
