@@ -54,3 +54,6 @@ keybind = ctrl+shift+w>e=equalize_splits
 
 # other
 copy-on-select = clipboard
+
+# full screen
+keybind = f11=toggle_fullscreen
