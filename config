@@ -57,3 +57,5 @@ copy-on-select = clipboard
 
 # full screen
 keybind = f11=toggle_fullscreen
+
+app-notifications = no-clipboard-copy
