@@ -8,7 +8,7 @@ I use `nix` to build `ghostty` from source and make it available system wide.
 The below command uses my ansible script to install `nix` and then build `ghostty`.  
 ```bash
 sudo apt install ansible git -y
-ansible-pull -U https://github.com/brucechanjianle/ansible --tags nix, ghostty --ask-become-pass
+ansible-pull -U https://github.com/brucechanjianle/ansible --tags nix,ghostty --ask-become-pass
 ```
 
 But if you are using Arch Linux! Just install it with `pacman`.  
