@@ -2,7 +2,9 @@
 
 This repository stores notes about using Ghostty on Ubuntu!
 
-## Installation
+<details>
+
+<summary>## Installation</summary>
 
 I use `nix` to build `ghostty` from source and make it available system wide.
 The below command uses my ansible script to install `nix` and then build `ghostty`.  
@@ -15,6 +17,8 @@ But if you are using Arch Linux! Just install it with `pacman`.
 ```bash
 sudo pacman -S ghostty
 ```
+
+</details>
 
 ## Set Default Terminal
 
