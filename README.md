@@ -1,6 +1,4 @@
-# Ghostty
-
-This repository stores notes about using Ghostty on Ubuntu!
+> Looking for help?
 
 <details>
 <summary> <h2> Installation </h2> </summary>
