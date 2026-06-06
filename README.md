@@ -3,8 +3,7 @@
 This repository stores notes about using Ghostty on Ubuntu!
 
 <details>
-
-<summary> ## Installation </summary>
+<summary> <h2> Installation </h2> </summary>
 
 If you are on Ubuntu! Simply install it with `snap`.  
 ```bash
@@ -18,8 +17,11 @@ sudo pacman -S ghostty
 
 </details>
 
-## Set Default Terminal
+<details>
+<summary> <h2> Set Default Terminal </h2> </summary>
 
 ```bash
 sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/local/bin/ghostty 100
 ```
+
+</details>
