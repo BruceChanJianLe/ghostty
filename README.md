@@ -45,4 +45,8 @@ Or for pods:
 infocmp -x | oc exec -i <pod name> -- tic -x -
 ```
 
+Or for docker containers:
+```bash
+infocmp -x | docker exec -i <container> tic -x -
+```
 </details>
