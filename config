@@ -60,3 +60,9 @@ keybind = f11=toggle_fullscreen
 
 # No longer require on v1.3.1
 # app-notifications = no-clipboard-copy
+
+# Enable your smooth cursor shader
+custom-shader = ./shaders/cursor_warp.glsl
+
+# Ensure animations run switching modes or tabs
+custom-shader-animation = always
